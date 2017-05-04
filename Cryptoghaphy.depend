@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1477287395 source:e:\c\cryptoghaphy\playfair.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1479238129 source:e:\c\cryptoghaphy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477677071 source:e:\c\cryptoghaphy\decrypt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1477823062 source:e:\c\cryptoghaphy\ceasarencrypt.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1477982976 source:e:\c\cryptoghaphy\playfairencry.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1477882490 source:e:\c\cryptoghaphy\monolithic.c
+	<stdio.h>
+
+1477882490 source:e:\c\cryptoghaphy\monoalphabetic.c
+	<stdio.h>
+
+1479235483 source:e:\c\cryptoghaphy\vigenere.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
